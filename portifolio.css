@@ -1,0 +1,21 @@
+body {  
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+.trabalho {  
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+.pai {  
+    justify-content: space-between;
+}
+
+.apple11 {  
+    padding-bottom: 20px;
+    padding-top: 100px;
+}
