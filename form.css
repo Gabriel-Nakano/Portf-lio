@@ -1,10 +1,10 @@
 body {  
     font-family: sans-serif;
     background-image: url(/img/813087.jpg);
+    background-size: auto;
 }
 
 .form { 
-    margin: auto;
     margin-top: 150px;
     padding-top: 50px;
     padding-bottom: 50px;
