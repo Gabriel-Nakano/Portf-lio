@@ -1,6 +1,6 @@
 body {  
     font-family: sans-serif;
-    background-image: url(./img/tecladoo2.jpg);
+    background-image: url(/img/813087.jpg);
 }
 
 .form { 
@@ -13,6 +13,14 @@ body {
     margin-left: 450px;
     margin-right: 450px;
     border-radius: 10px;
+    margin-bottom: 30px;
     background-color: white;
 
+}
+
+.menu2 {    
+    font-size: 18px;
+    margin-right: 20px;
+    margin-left: 170px;
+    justify-content: center;
 }

@@ -3,7 +3,16 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+
 }
+
+    /* Menu */
+
+.menu { 
+    text-align: center;
+    justify-content: space-between;
+}
+
 
     /* Links */
 
@@ -124,3 +133,11 @@ h3 {
 .naver {    
     position: fixed;
 }
+
+.menu2 {    
+    font-size: 18px;
+    margin-right: 20px;
+    margin-left: 170px;
+    justify-content: center;
+}
+
